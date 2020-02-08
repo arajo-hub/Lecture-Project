@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+    color:#f2f2f2;
+    margin:100px 0px 50px 0px;
+    text-shadow:0px 0px 1px #000000;
+}
+
+p{
+    font-family:'Quicksand', sans-serif;
+    font-size:15px;
+    color:#c7c7c7;
+    text-align:center;
+}
+
+#last{
+    margin:0px 0px 50px 0px;
+}
+
+table{
+    border-spacing:15px;
+}
+
+margin{
+    width:300px;
+}
+
+#one{
+    background:#FF99C8;
+    padding:150px 50px;
+}
+
+#two{
+    background:#FCF6BD;
+    padding:150px 50px;
+}
+
+#three{
+    background:#D0F4DE;
+    padding:150px 50px;
+}
+
+#four{
+    background:#A9DEF9;
+    padding:150px 50px;
+}
+
+#five{
+    background:#E4C1F9;
+    padding:150px 50px;
+}
