@@ -13,7 +13,7 @@ Udemy의 Python and Django Full Stack Web Developer Bootcamp 강의 중 CSS Leve
  * 색상선택
   * [coolors](https://coolors.co/browser/latest/1)
  * 폰트(구글폰트)
-  * [Pacifico](https://fonts.google.com/specimen/Pacifico)
-  * [Quicksand](https://fonts.google.com/specimen/Quicksand)
+  * [Pacifico](https://fonts.google.com/specimen/Pacifico)(Open Font License)
+  * [Quicksand](https://fonts.google.com/specimen/Quicksand)(Open Font License)
  * 이모지
   * [everycode](https://everycode.store/)
