@@ -14,9 +14,9 @@ thankyou페이지입니다.
 
 # 참고사항
 
- * 색상선택
+* 색상선택
   * [coolors](https://coolors.co/browser/latest/1)
- * 폰트(구글폰트)
+* 폰트(구글폰트)
   * [Cookie](https://fonts.google.com/specimen/Cookie)(Open Font License)
   * [Montserrat](https://fonts.google.com/specimen/Montserrat)(Open Font License)
   * [Vidaloka](https://fonts.google.com/specimen/Vidaloka)(Open Font License)
