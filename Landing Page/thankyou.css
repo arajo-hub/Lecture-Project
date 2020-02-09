@@ -1,0 +1,22 @@
+html{
+    background-color:#E5989B;
+}
+
+body{
+    color:white;
+    text-align:center;
+    border:60px solid #6D6875;
+    border-top:0px;
+    margin:0px;
+    padding:0px 0px 500px 0px;
+}
+
+h1{
+    font-family:'Cookie', cursive;
+    font-size:50px;
+    margin:21.44px #011627;
+}
+
+h2{
+    font-family:'Vidaloka', serif;
+}
