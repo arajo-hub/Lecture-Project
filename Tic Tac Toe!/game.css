@@ -1,0 +1,15 @@
+td{
+    height:150px;
+    width:150px;
+    text-align:center;
+    border:5px solid gray;
+    font-size:90px
+}
+
+h1{
+    text-align:center
+}
+
+p{
+    text-align:center
+}
