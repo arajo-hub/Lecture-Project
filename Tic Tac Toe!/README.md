@@ -10,5 +10,3 @@ Udemy의 Python and Django Full Stack Web Developer Bootcamp 강의 중 DOM과�
 # Tic Tac Toe!
 
 ![](tictactoe.png)
-
-# 참고
